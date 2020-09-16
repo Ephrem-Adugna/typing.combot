@@ -27,5 +27,5 @@
 
 ## P.S. Keep in mind the bot takes a bit of time to run, so please be patient. 
 
-## How to make the bot faster or slower:
+## How to make the bot's typing faster or slower:
 * You can change the delay integer to a smaller or larger number to make the delay between every letter typed shorter or longer.
