@@ -1,4 +1,4 @@
-# pytypingdotcom
+# Pytyper
 # A typing.com typer made with python
 
 ## **Software needed**:
